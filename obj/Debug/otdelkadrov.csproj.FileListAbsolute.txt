@@ -1,0 +1,94 @@
+D:\институт\курсовая криптография\otdelkadrov\bin\Debug\otdelkadrov.exe.config
+D:\институт\курсовая криптография\otdelkadrov\bin\Debug\otdelkadrov.exe
+D:\институт\курсовая криптография\otdelkadrov\bin\Debug\otdelkadrov.pdb
+D:\институт\курсовая криптография\otdelkadrov\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\институт\курсовая криптография\otdelkadrov\obj\Debug\otdelkadrov.csproj.AssemblyReference.cache
+D:\институт\курсовая криптография\otdelkadrov\obj\Debug\otdelkadrov.csproj.SuggestedBindingRedirects.cache
+D:\институт\курсовая криптография\otdelkadrov\obj\Debug\otdelkadrov.Form1.resources
+D:\институт\курсовая криптография\otdelkadrov\obj\Debug\otdelkadrov.Form2.resources
+D:\институт\курсовая криптография\otdelkadrov\obj\Debug\otdelkadrov.Form3.resources
+D:\институт\курсовая криптография\otdelkadrov\obj\Debug\otdelkadrov.Properties.Resources.resources
+D:\институт\курсовая криптография\otdelkadrov\obj\Debug\otdelkadrov.csproj.GenerateResource.cache
+D:\институт\курсовая криптография\otdelkadrov\obj\Debug\otdelkadrov.csproj.CoreCompileInputs.cache
+D:\институт\курсовая криптография\otdelkadrov\obj\Debug\otdelkadrov.csproj.CopyComplete
+D:\институт\курсовая криптография\otdelkadrov\obj\Debug\otdelkadrov.exe
+D:\институт\курсовая криптография\otdelkadrov\obj\Debug\otdelkadrov.pdb
+C:\Users\АДМИН\Desktop\Новая папка (2)\obj\Debug\otdelkadrov.exe
+C:\Users\АДМИН\Desktop\Новая папка (2)\obj\Debug\otdelkadrov.pdb
+C:\Users\АДМИН\Desktop\Новая папка (2)\bin\Debug\otdelkadrov.exe.config
+C:\Users\АДМИН\Desktop\Новая папка (2)\bin\Debug\otdelkadrov.exe
+C:\Users\АДМИН\Desktop\Новая папка (2)\bin\Debug\otdelkadrov.pdb
+C:\Users\АДМИН\Desktop\Новая папка (2)\obj\Debug\otdelkadrov.csproj.AssemblyReference.cache
+C:\Users\АДМИН\Desktop\Новая папка (2)\obj\Debug\otdelkadrov.Form1.resources
+C:\Users\АДМИН\Desktop\Новая папка (2)\obj\Debug\otdelkadrov.Form2.resources
+C:\Users\АДМИН\Desktop\Новая папка (2)\obj\Debug\otdelkadrov.Form3.resources
+C:\Users\АДМИН\Desktop\Новая папка (2)\obj\Debug\otdelkadrov.Properties.Resources.resources
+C:\Users\АДМИН\Desktop\Новая папка (2)\obj\Debug\otdelkadrov.csproj.GenerateResource.cache
+C:\Users\АДМИН\Desktop\Новая папка (2)\obj\Debug\otdelkadrov.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\order1\bin\Debug\otdelkadrov.exe.config
+C:\Users\user\Desktop\order1\bin\Debug\otdelkadrov.exe
+C:\Users\user\Desktop\order1\bin\Debug\otdelkadrov.pdb
+C:\Users\user\Desktop\order1\obj\Debug\otdelkadrov.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\order1\obj\Debug\otdelkadrov.Form1.resources
+C:\Users\user\Desktop\order1\obj\Debug\otdelkadrov.Form2.resources
+C:\Users\user\Desktop\order1\obj\Debug\otdelkadrov.Form3.resources
+C:\Users\user\Desktop\order1\obj\Debug\otdelkadrov.Properties.Resources.resources
+C:\Users\user\Desktop\order1\obj\Debug\otdelkadrov.csproj.GenerateResource.cache
+C:\Users\user\Desktop\order1\obj\Debug\otdelkadrov.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\order1\obj\Debug\otdelkadrov.csproj.CopyComplete
+C:\Users\user\Desktop\order1\obj\Debug\otdelkadrov.exe
+C:\Users\user\Desktop\order1\obj\Debug\otdelkadrov.pdb
+C:\Users\user\Desktop\order1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\order1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\downloads\order1 2\order1\bin\Debug\otdelkadrov.exe.config
+D:\downloads\order1 2\order1\bin\Debug\otdelkadrov.exe
+D:\downloads\order1 2\order1\bin\Debug\otdelkadrov.pdb
+D:\downloads\order1 2\order1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\downloads\order1 2\order1\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\downloads\order1 2\order1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.csproj.AssemblyReference.cache
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.csproj.SuggestedBindingRedirects.cache
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.Form1.resources
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.Form2.resources
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.Properties.Resources.resources
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.csproj.GenerateResource.cache
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.csproj.CoreCompileInputs.cache
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.csproj.CopyComplete
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.exe
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.pdb
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.Form4.resources
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.Form5.resources
+D:\downloads\order1 2\order1\obj\Debug\otdelkadrov.Form3.resources
+E:\order1 2\order1\bin\Debug\otdelkadrov.exe.config
+E:\order1 2\order1\bin\Debug\otdelkadrov.exe
+E:\order1 2\order1\bin\Debug\otdelkadrov.pdb
+E:\order1 2\order1\bin\Debug\BouncyCastle.Cryptography.dll
+E:\order1 2\order1\bin\Debug\BouncyCastle.Cryptography.xml
+E:\order1 2\order1\obj\Debug\otdelkadrov.csproj.AssemblyReference.cache
+E:\order1 2\order1\obj\Debug\otdelkadrov.csproj.SuggestedBindingRedirects.cache
+E:\order1 2\order1\obj\Debug\otdelkadrov.Form1.resources
+E:\order1 2\order1\obj\Debug\otdelkadrov.Form2.resources
+E:\order1 2\order1\obj\Debug\otdelkadrov.Form3.resources
+E:\order1 2\order1\obj\Debug\otdelkadrov.Form4.resources
+E:\order1 2\order1\obj\Debug\otdelkadrov.Form5.resources
+E:\order1 2\order1\obj\Debug\otdelkadrov.Properties.Resources.resources
+E:\order1 2\order1\obj\Debug\otdelkadrov.csproj.GenerateResource.cache
+E:\order1 2\order1\obj\Debug\otdelkadrov.csproj.CoreCompileInputs.cache
+E:\order1 2\order1\obj\Debug\otdelkadrov.csproj.CopyComplete
+E:\order1 2\order1\obj\Debug\otdelkadrov.exe
+E:\order1 2\order1\obj\Debug\otdelkadrov.pdb
+D:\order1 2\order1\bin\Debug\otdelkadrov.exe.config
+D:\order1 2\order1\bin\Debug\otdelkadrov.exe
+D:\order1 2\order1\bin\Debug\otdelkadrov.pdb
+D:\order1 2\order1\obj\Debug\otdelkadrov.csproj.AssemblyReference.cache
+D:\order1 2\order1\obj\Debug\otdelkadrov.csproj.SuggestedBindingRedirects.cache
+D:\order1 2\order1\obj\Debug\otdelkadrov.Form1.resources
+D:\order1 2\order1\obj\Debug\otdelkadrov.Form2.resources
+D:\order1 2\order1\obj\Debug\otdelkadrov.Form4.resources
+D:\order1 2\order1\obj\Debug\otdelkadrov.Properties.Resources.resources
+D:\order1 2\order1\obj\Debug\otdelkadrov.csproj.GenerateResource.cache
+D:\order1 2\order1\obj\Debug\otdelkadrov.csproj.CoreCompileInputs.cache
+D:\order1 2\order1\obj\Debug\otdelkadrov.csproj.CopyComplete
+D:\order1 2\order1\obj\Debug\otdelkadrov.exe
+D:\order1 2\order1\obj\Debug\otdelkadrov.pdb
+D:\order1 2\order1\obj\Debug\otdelkadrov.MainForm.resources
